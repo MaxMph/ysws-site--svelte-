@@ -11,22 +11,36 @@
         </div>
         <div class="basic_box">
             <p>Guy I really want to make videogames, but I barely have any space on my computer!!! I guess I just won't...</p>
-            <img src="src/lib/assets/shrug.png" alt="">
-            <p> but wait... mario 64 only takes up 8mb! If they can do all THAT, I cant just give up that easily! I suppose I could try and make something with my last 64mb!</p>
-            
-            <p>That shoulnt be too hard, thats 8 TIMES the size of mario 64...</p>
+            <img src="src/lib/assets/shrug-export.png" alt="">
+            <!-- <p> but wait... mario 64 only takes up 8mb! If they can do all THAT with so little space, I cant just give up that easily! I suppose I could try and make something with my last 64mb!</p> -->
+            <!-- <p> but wait... mario 64 only takes up 8mb! I suppose I could try and make something with my last 64mb! That shoulnt be too hard, thats 8 TIMES the size of mario 64...</p> -->
+            <p>That sounds kinda lame tho... I suppose I just have to make something with my last 64mb! That shoulnt be too hard, thats 8 TIMES the size of mario 64...</p>
+            <!-- <p>That shoulnt be too hard, thats 8 TIMES the size of mario 64...</p> -->
+
             <img src="src/lib/assets/mario 64.png" alt="">
+
+            <!-- <p>1: make a game, recording time with </p> -->
+            <!-- <p>1: <br> make a game thats less than 64mb</p>
+            <p>2: <br> track your work with hackatime and git commits</p>
+            <p>3: <br> submit and get prizes!</p> -->
+
             <!-- <p> &#60;('.'&#60;) &#60;('.')&#62; (&#62;'.')&#62; </p> -->
             <p>&#60;:::::::::::::&#93;==()&#60;('.')&#62;()==&#91;:::::::::::::&#62;</p>
             <!-- <p>_//  \\_</p> -->
 
             <div style="outline: 2px dashed white; padding: 16px;">
-                <h1>YOU SHIP:</h1>
-                <h2> A game &#60;= 64MB </h2>
+                <!-- <h1>YOU SHIP:</h1>
+                <h2> A game &#60;= 64MB </h2> -->
                 <!-- <p>&#60;:::::::::::::&#93;==()&#60;('.')&#62;()==&#91;:::::::::::::&#62;</p> -->
-               <p>--------------------------------------------------------</p>
+               <!-- <p>--------------------------------------------------------</p>
                 <h1>WE SHIP:  </h1>
-                <h2>A thumbdrive with all the shipped games + storage and computer parts</h2>
+                <h2>A thumbdrive with all the shipped games + storage grants and Handheld consols!</h2> -->
+
+
+                <h3>1: <br> make a game thats less than 64mb</h3>
+                <h3>2: <br> track your work with hackatime and git commits</h3>
+                <h3>3: <br> submit and get prizes!</h3>
+                <h3>3: <br> submit and get prizes!</h3>
             </div>
 
             <p>&#60;:::::::::::::&#93;==()&#60;('.')&#62;()==&#91;:::::::::::::&#62;</p>
@@ -80,23 +94,41 @@
     }
 
     p {
-        font-family:'Courier New', Courier, monospace;
+        /* font-family:'Courier New', Courier, monospace; */
+    }
+
+    h1 {
+
+    }
+
+    h2 {
+
+    }
+
+    h3 {
+
     }
 
     .bg {
+        margin: 0%;
+        height: 2560px;
         background-color: black;
         background-image: url(src/lib/assets/pbc bg.png);
         margin: 0%;
+        padding-top: 32px;
     }
 
     .main_div {
-        height: 2560px;
+        font-family:'Courier New', Courier, monospace;
+
+        /* height: 2560px; */
         /* width: 528px; */
         /* width: fit-content; */
         max-width: 800px;
         background-color: rgba(0, 0, 0, 0.658);
         /* background-color: #507c38; */
         margin: auto;
+        /* margin-top: 32px; */
         display: grid;
         justify-content: center;
         align-content: start;
