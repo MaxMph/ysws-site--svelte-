@@ -3,15 +3,15 @@
     <div class="main_div">
         <div class="intro">
             <div class="img_holder">
-                <img src="public/assets/sd card 1 (indexed).gif" alt="">
+                <img src="/assets/sd card 1 (indexed).gif" alt="">
                 <img src="/assets/header.png" alt="">
-                <img src="public/assets/sd card 1 (indexed).gif" alt="">
+                <img src="/assets/sd card 1 (indexed).gif" alt="">
                 <!-- <h1>!Wecome to Compact!</h1> -->
             </div>
         </div>
         <div class="basic_box">
             <p>Guy I really want to make videogames, but I barely have any space on my computer!!! I guess I just won't...</p>
-            <img src="public/assets/shrug-export.png" alt="">
+            <img src="/assets/shrug-export.png" alt="">
             <!-- <p> but wait... mario 64 only takes up 8mb! If they can do all THAT with so little space, I cant just give up that easily! I suppose I could try and make something with my last 64mb!</p> -->
             <!-- <p> but wait... mario 64 only takes up 8mb! I suppose I could try and make something with my last 64mb! That shoulnt be too hard, thats 8 TIMES the size of mario 64...</p> -->
             <p>That sounds kinda lame tho... I suppose I just have to make something with my last 64mb! That shoulnt be too hard, thats 8 TIMES the size of mario 64...</p>
@@ -44,7 +44,7 @@
             </div>
 
             <p>&#60;:::::::::::::&#93;==()&#60;('.')&#62;()==&#91;:::::::::::::&#62;</p>
-            <img src="public/assets/sd card 1 (indexed).gif" alt="">
+            <img src="/assets/sd card 1 (indexed).gif" alt="">
             <p>_.~"~._.~"~._.~"~._.~"~.__.~"~._.~"~._.~"~._.~"~._</p>
             <!-- <p>(-(-_(-_-)_-)-)</p> -->
              <h1>!PRIZES!</h1>
@@ -55,14 +55,14 @@
                 <!-- <img src="src/lib/assets/rewards/ereader.png" alt="">
                 <p>Xteink X4 <br> -(15 Hours)- </p> -->
                 
-                <img src="public/assets/rewards/thumbdrive.png" alt="">
+                <img src="/assets/rewards/thumbdrive.png" alt="">
                 <p>64gb/128gb thumbdrive <br> -(4/6 Hours)-</p>
                 <!-- <p>64gb thumbdrive <br> -(4 Hours)- <br> 128gb thumbdrive <br> -(6 Hours)- </p> -->
 
-                <img src="public/assets/rewards/ssd.png" alt="">
+                <img src="/assets/rewards/ssd.png" alt="">
                 <p>$50 storage grant <br> -(10 Hours)- </p>
 
-                <img src="public/assets/rewards/handheld.png" alt="">
+                <img src="/assets/rewards/handheld.png" alt="">
                 <p>Emulation Handheld <br> -(15 Hours)- </p>
 
 
@@ -72,15 +72,15 @@
             <!-- <p>(-(-_(-_-)_-)-)</p> -->
              <h1>!PRIZES!</h1>
             <p>_.~"~._.~"~._.~"~._.~"~.__.~"~._.~"~._.~"~._.~"~._</p>
-            <img src="public/assets/sd card 1 (indexed).gif" alt="">
+            <img src="/assets/sd card 1 (indexed).gif" alt="">
             <br>
             <br>
             
             <p>_.~"~._.~"~._.~"~._.~"~.__.~"~._.~"~._.~"~._.~"~._</p>
             <div class="img_holder">
-            <img src="public/assets/rewards/money.png" alt="">
+            <img src="/assets/rewards/money.png" alt="">
             <button style="width: 128px; height: 32px; ">$submit$</button>
-            <img src="public/assets/rewards/money.png" alt="">
+            <img src="/assets/rewards/money.png" alt="">
             </div>
             <p>_.~"~._.~"~._.~"~._.~"~.__.~"~._.~"~._.~"~._.~"~._</p>
 
