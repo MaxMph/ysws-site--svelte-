@@ -17,7 +17,7 @@
             <p>That sounds kinda lame tho... I suppose I just have to make something with my last 64mb! That shoulnt be too hard, thats 8 TIMES the size of mario 64...</p>
             <!-- <p>That shoulnt be too hard, thats 8 TIMES the size of mario 64...</p> -->
 
-            <img src="/assets/mario 64.png" alt="">
+            <img src="public/assets/mario 64.png" alt="">
 
             <!-- <p>1: make a game, recording time with </p> -->
             <!-- <p>1: <br> make a game thats less than 64mb</p>
