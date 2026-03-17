@@ -113,7 +113,7 @@
         margin: 0%;
         height: 2560px;
         background-color: black;
-        background-image: url(src/lib/assets/pbc bg.png);
+        background-image: url(/assets/pbc bg.png);
         margin: 0%;
         padding-top: 32px;
     }
